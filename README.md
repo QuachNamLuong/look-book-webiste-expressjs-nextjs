@@ -1,3 +1,6 @@
+## Use case Login form
+    ![Use case diagram](/img/login-use-case.png)
+
 ## Running Selenium Tests
 
 To run the Selenium tests in this project, follow these steps:
@@ -19,6 +22,9 @@ To run the Selenium tests in this project, follow these steps:
 
 3. **Review Test Results**  
     Check the console output for test results and any errors.
+    ![Example Test Retsult](/img/test-result.png)
+
+
 
 **Note:**  
 - Ensure your browser and WebDriver versions are compatible.  
