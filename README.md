@@ -1,6 +1,8 @@
+## Login form
+* ![Login Form](/img/login-form.png)
+
 ## Use case Login form
-**
-    ![Use case diagram](/img/login-use-case.png)
+* ![Use case diagram](/img/login-use-case.png)
 
 ## Running Selenium Tests
 
