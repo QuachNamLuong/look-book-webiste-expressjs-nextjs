@@ -1,4 +1,5 @@
 ## Use case Login form
+**
     ![Use case diagram](/img/login-use-case.png)
 
 ## Running Selenium Tests
